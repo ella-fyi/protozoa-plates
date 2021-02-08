@@ -1,6 +1,7 @@
 # Production-ready FR4 plates for the [Protozoa](https://protozoa.studio/) P.01  
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 license, meaning you cannot use the project to generate income. If you ask me (xeon3175x#7774 on Discord), I will most likely let you use these commercially, however you must also have permission from someone at [Protozoa Studio](https://protozoa.studio/), since they are the original makers of this plate.
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]  
+This project is licensed under the **[Attribution-NonCommercial-ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)** license, meaning you cannot use the project to generate income. If you ask me (xeon3175x#7774 on Discord), I will most likely let you use these commercially, however you must also have permission from someone at [Protozoa Studio](https://protozoa.studio/), since they are the original makers of this plate.
 
 Gerber files for each of the plates (ISO & ANSI, see below) can be found in their respective folders.  
 
