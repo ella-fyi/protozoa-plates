@@ -1,5 +1,9 @@
-fr4 plates  for the [Protozoa](https://protozoa.studio/) P.01.
+# Production-ready FR4 plates for the [Protozoa](https://protozoa.studio/) P.01  
 
-might do P.02 plates later
+Gerber files for each of the plates (ISO & ANSI, see below) can be found in their respective folders.
 
-the plan is to have production-ready files for anyone to use at any pcb fab house
+## ANSI PLATE
+![ANSI PLATE](https://github.com/xeon3175x/protozoa-plates/blob/master/res/ANSI_front.png?raw=true)  
+
+## ISO PLATE
+![ISO PLATE](https://github.com/xeon3175x/protozoa-plates/blob/master/res/ISO_front.png?raw=true)
