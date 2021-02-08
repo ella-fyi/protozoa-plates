@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 2806)
+    (drawings 2804)
     (tracks 0)
     (zones 0)
     (modules 56)
@@ -1264,8 +1264,6 @@
   (gr_line (start 267.398496 89.70945) (end 267.398497 83.003501) (layer Edge.Cuts) (width 0.3) (tstamp 6021C1E1))
   (gr_line (start 252.398497 83.003501) (end 252.398496 88.003501) (layer Edge.Cuts) (width 0.3) (tstamp 6021C1E0))
   (gr_arc (start 233.999 100.965003) (end 233.999 99.965003) (angle -90) (layer Edge.Cuts) (width 0.3) (tstamp 6021C1DF))
-  (gr_line (start 152.908 138.3665) (end 95.3135 138.3665) (layer F.SilkS) (width 0.12))
-  (gr_line (start 112.7125 138.3665) (end 153.67 138.3665) (layer F.SilkS) (width 0.12))
   (gr_line (start 322.648476 103.694496) (end 322.60324 103.694496) (layer Edge.Cuts) (width 0.187858))
   (gr_line (start 326.203372 103.916118) (end 326.130186 103.76966) (layer Edge.Cuts) (width 0.187858))
   (gr_line (start 322.39469 103.95155) (end 322.39469 103.95155) (layer Edge.Cuts) (width 0.187858))
