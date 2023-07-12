@@ -1,7 +1,7 @@
 # Production-ready FR4 plates for the [Protozoa](https://protozoa.studio/) P.01 and P.02  
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]  
-This project is licensed under the **[Attribution-NonCommercial-ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)** license, meaning you cannot use the project to generate income. If you ask me (xeon3175x#7898 on Discord), and also have permission from someone at [Protozoa Studio](https://protozoa.studio/), you are free to use these for a Group Buy or similar.
+This project is licensed under the **[Attribution-NonCommercial-ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)** license, meaning you cannot use the project to generate income. If you ask me (@ellafyi on Discord), and also have permission from someone at [Protozoa Studio](https://protozoa.studio/), you are free to use these for a Group Buy or similar.
 
 Gerber files for each of the plates (ISO & ANSI, see below) can be found in their respective folders.  
 To get as close to the renders below as possible, choose Black Soldermask and ENIG Surface Finish  
